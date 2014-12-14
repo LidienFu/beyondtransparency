@@ -33,9 +33,12 @@ Before we dive into the details of what ensued, it is worth discussing the simpl
 
 The City of Chicago did have an existing open data program so I wasn’t starting from scratch. Prior to the new administration it was managed by Danielle DuMerer, a project manager in The Department of Innovation and Technology (DoIT). The city had already secured the Socrata platform and kicked off some basic dataset projects—specifically, publishing logs of the Freedom of Information Act (FOIA) requests submitted by the public, as well as an assortment of facility and geographic datasets.
 
-芝加哥市的確有一項既存的開放資訊計畫，因此我並非從零開始。在新市府團隊上任前，該計畫是創新與科技部(Department of Innovation and Technology, DoIt0的專案經理 Danielle DuMere管理。本市已經在 Socrata 平台 (知名開放資料平台，主要客戶為開放政府)上啟動了幾個基本的資料組計畫，具體來說，包括大眾對資訊行動自由(Freedom of Information Act, FOIA)提出需求的出版記錄，以及設施和地理資分類的資料組。
+芝加哥市的確有一項既存的開放資訊計畫，因此我並非從零開始。在新市府團隊上任前，該計畫是創新與科技部(Department of Innovation and Technology, DoIt) 的專案經理 Danielle DuMere管理。本市已經在 Socrata 平台 (知名開放資料平台，主要客戶為開放政府)上啟動了幾個基本的資料組計畫，具體來說，包括大眾對資訊行動自由(Freedom of Information Act, FOIA)提出需求的出版記錄，以及設施和地理資分類的資料組。
 
 DuMerer had substantially engaged the local open government community with the city’s open data. However, the prior administration had not identified the open data program as a top priority among other competing issues, and even with DuMerer’s efforts the program struggled to gain significant traction. But once the new administration came on board with a clear mandate from Mayoral Emanuel to make open data a priority, the city’s open data program began to immediately change.
+
+Danielle DuMerer 已和在地的開放政府社群大幅投入城市開放資料。然而，前市政團隊並未將開放資料計畫在各項議題中列為首要重點，即使在 DuMerere 的努力下，該計畫也只能苟延喘地延續。但新市府團隊上任後，伴隨著市長 Emanuel 重視開放資料的明確任務，本市的開放資料計畫立即發生了改變。
+
 
 In the first two weeks as the city’s Chief Data Officer, I did my best to learn the ins and outs of the program I had inherited. I found it frustrating that the data platform had already been chosen. While I appreciate the turnkey efficiency of Socrata’s platform, I knew that a proprietary application would become a long-term financial investment. I am also a strong believer in utilizing open source technologies and was disappointed that we were doing little to support the community around CKAN, a widely used open source open data catalog. But because I needed to deliver results immediately, I was not in a position to make a sharp pivot. It wasn’t practical to consider other alternative platforms at that point.
 
